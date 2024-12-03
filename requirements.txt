@@ -1,4 +1,3 @@
 streamlit
 pandas
-sqlite3  # Note: SQLite3 is part of Python's standard library; no need to install
 plotly
